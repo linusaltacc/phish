@@ -1,0 +1,6 @@
+scikit-learn==0.22.1
+numpy
+tokenizers==0.13.2
+Langdetect
+Joblib
+Requests
